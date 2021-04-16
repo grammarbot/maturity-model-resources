@@ -1,10 +1,8 @@
 # Maturity model resources
 
-A repository that contains resources for creating maturity models
-
 ## Write the Docs 2021
 
-* [Beyond Metrics Slideck](https://docs.google.com/presentation/d/1tUAPWWAoPmfWCJAaS-nDn-YqfuRvZX3R15G1XbJKzkQ/edit?usp=sharing)
+* [Beyond Metrics Write the Docs 2021 Slideck](https://docs.google.com/presentation/d/1tUAPWWAoPmfWCJAaS-nDn-YqfuRvZX3R15G1XbJKzkQ/edit?usp=sharing)
 
 ## Maturity models for Wikimedia projects
 
